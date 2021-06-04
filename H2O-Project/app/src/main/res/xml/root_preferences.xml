@@ -1,0 +1,15 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:clickable="false">
+    <ListPreference
+        app:defaultValue="L"
+        app:entries="@array/water_unit"
+        app:entryValues="@array/waterUnit_values"
+        app:key="units"
+        app:title="@string/units"
+        app:useSimpleSummaryProvider="false" />
+    <EditTextPreference
+        app:key="weight"
+        app:title="@string/peso_corporeo"
+        app:useSimpleSummaryProvider="false" />
+</PreferenceScreen>

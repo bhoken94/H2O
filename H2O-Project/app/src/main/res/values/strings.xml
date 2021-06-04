@@ -1,0 +1,22 @@
+<resources>
+    <!--Toolbar Titles-->
+    <string name="app_name">H2O</string>
+    <string name="dailyBalance">Daily Balance</string>
+    <string name="water_remaining">Remaining</string>
+    <string name="settings">Settings</string>
+    <string name="addWater">Add Cup</string>
+
+    <!--Labels-->
+    <string name="label_water">Trascina per aumentare</string>
+    <string name="addCup">Conferma</string>
+
+    <!-- Preference Titles -->
+    <string name="units">UI Units</string>
+    <string name="peso_corporeo">Peso Corporeo</string>
+
+    <!--OnBoarding-->
+    <string name="btn_skip">Skip</string>
+    <string name="btn_finish">finish</string>
+
+    <string name="lorem">Bacon ipsum dolor amet pancetta flank chicken, picanha ham ham hock boudin rump fatback chuck hamburger shank swine. </string>
+</resources>

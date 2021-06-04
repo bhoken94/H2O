@@ -1,0 +1,17 @@
+<resources>
+    <string-array name="water_unit">
+        <item>mL</item>
+        <item>L</item>
+    </string-array>
+
+    <string-array name="waterUnit_values">
+        <item>mL</item>
+        <item>L</item>
+    </string-array>
+
+    <string-array name="intensità_fisica">
+        <item>Alta</item>
+        <item>Media</item>
+        <item>Bassa</item>
+    </string-array>
+</resources>

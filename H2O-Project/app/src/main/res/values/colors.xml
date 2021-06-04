@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6AAED9</color>
+    <color name="colorPrimaryDark">#6AAED9</color>
+    <color name="textColor">#F2F2F2</color>
+    <color name="fontLight">#ACD7F2</color>
+    <color name="fontDark">#323133</color>
+
+    <!-- ONBOARDING -->
+    <color name="indicator_unselected">#4D000000</color>
+
+    <color name="transparentBlack">#48000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="lightBlue">#03A9F4</color>
+    <color name="cyan">#00BCD4</color>
+    <color name="teal">#009688</color>
+
+    <color name="dividerColor">#B6B6B6</color>
+    <color name="dividerColorLight">#48B6B6B6</color> <!--30% transparent-->
+</resources>
